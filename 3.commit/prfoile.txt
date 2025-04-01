@@ -1,2 +1,2 @@
-email :
-gitID :
+email : sonik5199@gmail.com 
+gitID : sonik007
